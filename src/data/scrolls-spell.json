@@ -1,0 +1,135 @@
+[
+  {
+    "count": 1,
+    "wizardmin": 1,
+    "wizardmax": 4,
+    "clericmin": 1,
+    "clericmax": 4
+  },
+  {
+    "count": 1,
+    "wizardmin": 1,
+    "wizardmax": 4,
+    "clericmin": 1,
+    "clericmax": 4
+  },
+  {
+    "count": 1,
+    "wizardmin": 1,
+    "wizardmax": 4,
+    "clericmin": 1,
+    "clericmax": 4
+  },
+  {
+    "count": 1,
+    "wizardmin": 1,
+    "wizardmax": 6,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 1,
+    "wizardmin": 1,
+    "wizardmax": 6,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 1,
+    "wizardmin": 2,
+    "wizardmax": 9,
+    "clericmin": 2,
+    "clericmax": 7
+  },
+  {
+    "count": 2,
+    "wizardmin": 1,
+    "wizardmax": 4,
+    "clericmin": 1,
+    "clericmax": 4
+  },
+  {
+    "count": 2,
+    "wizardmin": 2,
+    "wizardmax": 9,
+    "clericmin": 2,
+    "clericmax": 7
+  },
+  {
+    "count": 3,
+    "wizardmin": 1,
+    "wizardmax": 4,
+    "clericmin": 1,
+    "clericmax": 4
+  },
+  {
+    "count": 3,
+    "wizardmin": 2,
+    "wizardmax": 9,
+    "clericmin": 2,
+    "clericmax": 7
+  },
+  {
+    "count": 4,
+    "wizardmin": 1,
+    "wizardmax": 6,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 4,
+    "wizardmin": 1,
+    "wizardmax": 8,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 5,
+    "wizardmin": 1,
+    "wizardmax": 6,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 5,
+    "wizardmin": 1,
+    "wizardmax": 8,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 6,
+    "wizardmin": 1,
+    "wizardmax": 6,
+    "clericmin": 1,
+    "clericmax": 6
+  },
+  {
+    "count": 6,
+    "wizardmin": 3,
+    "wizardmax": 8,
+    "clericmin": 3,
+    "clericmax": 6
+  },
+  {
+    "count": 7,
+    "wizardmin": 1,
+    "wizardmax": 7,
+    "clericmin": 1,
+    "clericmax": 7
+  },
+  {
+    "count": 7,
+    "wizardmin": 2,
+    "wizardmax": 9,
+    "clericmin": 2,
+    "clericmax": 7
+  },
+  {
+    "count": 7,
+    "wizardmin": 4,
+    "wizardmax": 9,
+    "clericmin": 4,
+    "clericmax": 7
+  }
+]

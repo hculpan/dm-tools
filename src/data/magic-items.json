@@ -1,0 +1,110 @@
+[
+  {
+    "min": 1,
+    "max": 20,
+    "description": "Potions and Oils (p. 183)",
+    "id": "potion"
+  },
+  {
+    "min": 21,
+    "max": 35,
+    "description": "Scrolls (p. 184)",
+    "id": "scroll"
+  },
+  {
+    "min": 36,
+    "max": 40,
+    "description": "Rings (p. 184)",
+    "id": "ring"
+  },
+  {
+    "min": 41,
+    "max": 41,
+    "description": "Rods (p. 185)",
+    "id": "rod"
+  },
+  {
+    "min": 42,
+    "max": 42,
+    "description": "Staves (p. 185)",
+    "id": "staff"
+  },
+  {
+    "min": 43,
+    "max": 45,
+    "description": "Wands (p. 185)",
+    "id": "wand"
+  },
+  {
+    "min": 46,
+    "max": 46,
+    "description": "Miscellaneous Magic: Books and Tomes (p. 185)",
+    "id": "book"
+  },
+  {
+    "min": 47,
+    "max": 48,
+    "description": "Miscellaneous Magic: Jewels and Jewelry (p. 186)",
+    "id": "jewel"
+  },
+  {
+    "min": 49,
+    "max": 50,
+    "description": "Miscellaneous Magic: Cloaks and Robes (p. 186)",
+    "id": "cloak"
+  },
+  {
+    "min": 51,
+    "max": 52,
+    "description": "Miscellaneous Magic: Boots and Globes (p. 186)",
+    "id": "boot"
+  },
+  {
+    "min": 53,
+    "max": 53,
+    "description": "Miscellaneous Magic: Girdles and Helms (p. 187)",
+    "id": "girdle"
+  },
+  {
+    "min": 54,
+    "max": 55,
+    "description": "Miscellaneous Magic: Bags and Bottles (p. 187)",
+    "id": "bag"
+  },
+  {
+    "min": 56,
+    "max": 56,
+    "description": "Miscellaneous Magic: Dusts and Stones (p. 187)",
+    "id": "dust"
+  },
+  {
+    "min": 57,
+    "max": 57,
+    "description": "Miscellaneous Magic: Household Items and Tools (p. 187)",
+    "id": "tool"
+  },
+  {
+    "min": 58,
+    "max": 58,
+    "description": "Miscellaneous Magic: Musical Instruments (p. 188)",
+    "id": "instrument"
+  },
+  {
+    "min": 59,
+    "max": 60,
+    "description": "Miscellaneous Magic: The Weird Stuff (p. 188)",
+    "id": "weird"
+  },
+  {
+    "min": 61,
+    "max": 75,
+    "description": "Armor and Shields (p. 189)",
+    "id": "armor"
+  },
+  {
+    "min": 76,
+    "max": 100,
+    "description": "Weapons (pp. 189-190)",
+    "id": "weapon"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "hatedEnemy",
+    "modifier": -4,
+    "description": "Hated Enemy"
+  },
+  {
+    "id": "surprised",
+    "modifier": -2,
+    "description": "Surprised"
+  },
+  {
+    "id": "creaturesHalfHd",
+    "modifier": -2,
+    "description": "Creatures 1/2 HD or less"
+  },
+  {
+    "id": "creatures1Hd",
+    "modifier": -1,
+    "description": "Creatures 1/2 HD+ to 1 HD"
+  },
+  {
+    "id": "creatures4Hd",
+    "modifier": 1,
+    "description": "Creatures 4 to 8+ HD"
+  },
+  {
+    "id": "creatures9Hd",
+    "modifier": 2,
+    "description": "Creatures 9 to 14+ HD"
+  },
+  {
+    "id": "creatures15Hd",
+    "modifier": 3,
+    "description": "Creatures 15 or more HD"
+  },
+  {
+    "id": "defendingHome",
+    "modifier": 3,
+    "description": "Defending home"
+  },
+  {
+    "id": "defensiveTerrain",
+    "modifier": 1,
+    "description": "Defensive terrain"
+  },
+  {
+    "id": "opponentsOutnumberParty",
+    "modifier": 2,
+    "description": "Enemies 3x party in number"
+  },
+  {
+    "id": "partyOutnumbersOpponents",
+    "modifier": -4,
+    "description": "Party 3x enemies in number"
+  }
+]
